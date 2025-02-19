@@ -24,7 +24,7 @@ Hello, I'm Ronit. Computer Science student with expertise in data analysis and r
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/iRonit080/Projects-Archive).
+Welcome to my portfolio, where I showcase my [projects](https://github.com/iRonit080/Projects).
 
 ### 🛠️ Tools
 
