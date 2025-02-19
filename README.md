@@ -17,11 +17,9 @@ Here are some ideas to get you started:
 
 -->
 
-Hello, I'm Ronit. Data Analyst with expertise in data analysis and reporting, query optimization, database design, and data modelling. 
-
+Hello, I'm Ronit. Computer Science student with expertise in data analysis and reporting.
 - Querying data using SQL.
-- Generate reports and perform ad-hoc data analysis using SQL.
-- Developing dashboards on Tableau and Looker Studio.
+- Developing dashboards on PowerBi
 - Data analysis and reporting using Google Sheets and Excel.
 
 ### 📚 Projects
