@@ -36,4 +36,4 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/aruna
 
 ### 👋🏻 Connect with Me
 
-- [Linkedin](https://www.linkedin.com/in/arunahlawat1996)
+- [Linkedin](https://www.linkedin.com/in/ronittomar101)
